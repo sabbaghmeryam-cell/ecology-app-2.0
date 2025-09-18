@@ -1,0 +1,8 @@
+streamlit==1.29.0
+folium==0.15.1
+streamlit-folium==0.18.0
+requests==2.32.3
+pandas==2.2.2
+geopy==2.4.1
+openmeteo-requests==1.2.0
+python-dateutil==2.9.0.post0
